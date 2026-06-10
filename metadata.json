@@ -1,0 +1,6 @@
+{
+  "name": "Premium Shoe Store",
+  "description": "A luxury, minimalist web application for a shoe business, fully integrated with a Google Sheets database and an administrative dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
